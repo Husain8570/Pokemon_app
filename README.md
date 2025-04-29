@@ -23,9 +23,3 @@ A modern React.js web application that fetches and displays the first 150 Pokém
 
 ---
 
-## 📦 Installation
-
-1. **Clone the repo**
-   ```bash
-   git clone https://github.com/yourusername/pokedex-react-app.git
-   cd pokedex-react-app
