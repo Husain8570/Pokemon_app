@@ -1,4 +1,4 @@
-# 🧿 pokemon explorer React App
+# 🧿 Pokemon explorer React App
 
 A modern React.js web application that fetches and displays the first 150 Pokémon using the [PokéAPI](https://pokeapi.co). Features include search, filter by type, and responsive UI styled with Tailwind CSS.
 
